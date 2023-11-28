@@ -9,7 +9,7 @@
 ## Подготовительный этап
 1. Установить и запустить IntelliJ IDEA;
 2. Установать и запустить Docker Desktop;
-3. Скопировать репозиторий с Github https://github.com/ZhekaSPB/DiplomQA.git
+3. Скопировать репозиторий с Github https://github.com/ZhekaSPB/Diplom.git
 4. Открыть проект в IntelliJ IDEA.
 
 ## Запуск тестового приложения
